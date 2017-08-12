@@ -1,4 +1,4 @@
 # sexier-dash-be
-Back-End of Dashboard App with Node.js, Express.js, Socket.io, 
+Back-End of Dashboard App with Node.js, Express.js, Socket.io, Mongodb
 
-run `node inde.js`
+run `node index.js`
